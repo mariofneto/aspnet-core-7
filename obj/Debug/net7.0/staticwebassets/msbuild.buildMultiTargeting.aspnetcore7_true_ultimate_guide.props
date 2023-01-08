@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aspnetcore7_true_ultimate_guide.props" />
+</Project>
