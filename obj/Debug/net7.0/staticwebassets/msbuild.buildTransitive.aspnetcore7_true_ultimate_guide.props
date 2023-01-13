@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\aspnetcore7_true_ultimate_guide.props" />
-</Project>
