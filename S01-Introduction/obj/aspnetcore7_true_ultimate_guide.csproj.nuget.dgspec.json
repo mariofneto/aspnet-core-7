@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj": {}
+    "c:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj": {}
   },
   "projects": {
-    "C:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj": {
+    "c:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj",
+        "projectUniqueName": "c:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj",
         "projectName": "aspnetcore7_true_ultimate_guide",
-        "projectPath": "C:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj",
+        "projectPath": "c:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\aspnetcore7_true_ultimate_guide\\obj\\",
+        "outputPath": "c:\\dev\\aspnetcore7_true_ultimate_guide\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"

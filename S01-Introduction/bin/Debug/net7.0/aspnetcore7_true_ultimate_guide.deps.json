@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "aspnetcore7_true_ultimate_guide/1.0.0": {
+        "runtime": {
+          "aspnetcore7_true_ultimate_guide.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aspnetcore7_true_ultimate_guide/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
