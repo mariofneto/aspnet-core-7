@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj": {}
+    "C:\\dev\\aspnet\\S01_Introduction\\aspnetcore7_true_ultimate_guide.csproj": {}
   },
   "projects": {
-    "c:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj": {
+    "C:\\dev\\aspnet\\S01_Introduction\\aspnetcore7_true_ultimate_guide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj",
+        "projectUniqueName": "C:\\dev\\aspnet\\S01_Introduction\\aspnetcore7_true_ultimate_guide.csproj",
         "projectName": "aspnetcore7_true_ultimate_guide",
-        "projectPath": "c:\\dev\\aspnetcore7_true_ultimate_guide\\aspnetcore7_true_ultimate_guide.csproj",
+        "projectPath": "C:\\dev\\aspnet\\S01_Introduction\\aspnetcore7_true_ultimate_guide.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\aspnetcore7_true_ultimate_guide\\obj\\",
+        "outputPath": "C:\\dev\\aspnet\\S01_Introduction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,22 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
