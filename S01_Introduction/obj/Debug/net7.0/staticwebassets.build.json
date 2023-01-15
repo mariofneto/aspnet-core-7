@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ueP23p7hDP8tc07rZl5kU6hud2vtGMF6XPXkBWrxVoE=",
+  "Hash": "wTn1cqUfMnSZeto2OELQ3TBipduwSTWnw4jT2TW9ImE=",
   "Source": "aspnetcore7_true_ultimate_guide",
   "BasePath": "_content/aspnetcore7_true_ultimate_guide",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\dev\\aspnet\\S01_Introduction\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\aspnetcore7_true_ultimate_guide.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\dev\\aspnet\\S01_Introduction\\wwwroot\\css\\bootswatch.css",
+      "SourceId": "aspnetcore7_true_ultimate_guide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\aspnet\\S01_Introduction\\wwwroot\\",
+      "BasePath": "_content/aspnetcore7_true_ultimate_guide",
+      "RelativePath": "css/bootswatch.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatch.css"
     },
     {
       "Identity": "C:\\dev\\aspnet\\S01_Introduction\\wwwroot\\css\\site.css",
